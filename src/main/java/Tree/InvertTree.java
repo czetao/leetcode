@@ -66,5 +66,16 @@ public class InvertTree {
         }
         return root;
 
+
+
+    }
+
+
+
+    public static void main(String[] args) {
+        boolean a=true,b=false;
+        System.out.println(a==true && b==false);
+
+        System.out.println(a);
     }
 }

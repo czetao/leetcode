@@ -13,6 +13,7 @@ public class BalanceTree {
             return true;
         }
         int dep = getDeepth(root);
+
         return dep >=0;
     }
 
@@ -27,6 +28,7 @@ public class BalanceTree {
         }
         int left = getDeepth(root.left);
         int right = getDeepth(root.right);
+        //对每一个结点的深度进行判断，不符合返回-1，符合返回二叉树的深度
         if (left == -1 || right == -1 || Math.abs(left-right)>1){
             return -1;
         }
