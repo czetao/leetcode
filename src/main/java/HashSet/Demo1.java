@@ -26,13 +26,16 @@ public class Demo1 {
 
         return false;*/
         int a=0;
-        if(nums.length ==1)
+        if(nums.length ==1){
             return false;
-        for(int i:nums){
-            a=a^i;
-            if(a==0)
-                return true;
         }
+        //使用异或解决算法，如果有两个数使相同的，则为0，就可以返回true
+        for(int i:nums){
+
+            a=a^i;
+            if(a==0){
+                return true;
+        }}
 
         return false;
     }

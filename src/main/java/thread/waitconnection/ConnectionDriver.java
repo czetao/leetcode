@@ -1,4 +1,4 @@
-package Thread.waitConnection;
+package thread.waitconnection;
 
 import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Method;

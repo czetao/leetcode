@@ -1,5 +1,7 @@
 package Array;
 
+import java.util.Scanner;
+
 /**
  * @Auther: 陈泽涛
  * @Date: 2019/8/20 14:40
@@ -65,7 +67,9 @@ public class MergeArray {
         for (int i=0;i<nums.length;i++){
             System.out.println(nums[i]);
         }
+        Scanner sc = new Scanner(System.in);
 
+        int a = sc.nextInt();
     }
 
 }

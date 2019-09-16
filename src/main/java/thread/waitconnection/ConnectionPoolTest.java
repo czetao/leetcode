@@ -1,4 +1,4 @@
-package Thread.waitConnection;
+package thread.waitconnection;
 
 import java.sql.Connection;
 import java.util.concurrent.CountDownLatch;

@@ -1,4 +1,4 @@
-package Thread.ThreadPool;
+package thread.threadpool;
 
 /**
  * @Auther: 陈泽涛

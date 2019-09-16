@@ -1,4 +1,4 @@
-package Thread.ThreadPool;
+package thread.threadpool;
 
 import java.util.ArrayList;
 import java.util.Collections;
@@ -43,7 +43,7 @@ public class DefaultThreadPool<Job extends Runnable> implements ThreadPool {
         for (int i = 0 ;i<nums;i++){
             Worker worker = new Worker();
             workers.add(worker);
-            Thread thread = new Thread(worker,"ThreadPool-Worker-"+threadNum.incrementAndGet());
+            Thread thread = new Thread(worker,"threadpool-Worker-"+threadNum.incrementAndGet());
             thread.start();
         }
     }
