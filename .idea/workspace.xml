@@ -2,14 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b36a5284-6472-4948-af8d-b9585458f710" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/offer/FindPath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/offer/GetLeastNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/offer/IsPopOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/offer/MinStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/offer/MoreThanHalfNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/offer/Permutation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/offer/PrintFromTopToBottom.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/offer/VerifySquenceOfBST.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -118,11 +110,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/offer/FindPath.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="741">
-              <caret line="39" column="5" selection-start-line="23" selection-start-column="4" selection-end-line="39" selection-end-column="5" />
+            <state relative-caret-position="148">
+              <caret line="20" column="9" lean-forward="true" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
             </state>
           </provider>
         </entry>
@@ -130,7 +122,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/offer/Permutation.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="228">
+            <state relative-caret-position="532">
               <caret line="30" column="48" selection-start-line="30" selection-start-column="44" selection-end-line="30" selection-end-column="48" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -142,17 +134,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/offer/MoreThanHalfNum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-228">
-              <caret line="33" column="30" lean-forward="true" selection-start-line="33" selection-start-column="30" selection-end-line="33" selection-end-column="30" />
+            <state relative-caret-position="627">
+              <caret line="33" column="30" selection-start-line="33" selection-start-column="30" selection-end-line="33" selection-end-column="30" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/offer/GetLeastNumbers.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="190">
-              <caret line="10" column="30" lean-forward="true" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
+              <caret line="10" column="30" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -376,7 +368,7 @@
     <property name="SearchEverywhereHistoryKey" value="linkedlis&#9;PSI&#9;JAVA://java.util.LinkedList" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1568701944042" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1568702076315" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -547,6 +539,7 @@
       <workItem from="1568599050510" duration="7443000" />
       <workItem from="1568615105476" duration="11031000" />
       <workItem from="1568684763049" duration="7285000" />
+      <workItem from="1568701880187" duration="226000" />
     </task>
     <task id="LOCAL-00001" summary="idea测试整合">
       <created>1563435171940</created>
@@ -597,7 +590,14 @@
       <option name="project" value="LOCAL" />
       <updated>1568615801286</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="增加剑指offer">
+      <created>1568702091483</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1568702091483</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
