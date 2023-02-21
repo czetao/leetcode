@@ -7,26 +7,25 @@ package offer.ThirdDay;
  */
 public class TreeDepth {
 
-    class TreeNode {
-     int val = 0;
-     TreeNode left = null;
-     TreeNode right = null;
+    static class TreeNode {
+        int val = 0;
+        TreeNode left = null;
+        TreeNode right = null;
 
-     public TreeNode(int val) {
-     this.val = val;
+        public TreeNode(int val) {
+            this.val = val;
+        }
 
-     }
-
-     }
+    }
 
 
-     public int TreeDepth(TreeNode root) {
-        if (root == null){
+    public int TreeDepth(TreeNode root) {
+        if (root == null) {
             return 0;
         }
         int left = TreeDepth(root.left);
         int right = TreeDepth(root.right);
-        return 1+Math.max(left,right);
+        return 1 + Math.max(left, right);
 
     }
 
