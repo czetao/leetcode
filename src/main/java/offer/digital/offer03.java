@@ -1,4 +1,4 @@
-package offer;
+package offer.digital;
 
 import java.util.HashSet;
 

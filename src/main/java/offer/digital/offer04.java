@@ -1,4 +1,4 @@
-package offer;
+package offer.digital;
 
 /**
  * 2023/2/21
