@@ -1,84 +1,143 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="b36a5284-6472-4948-af8d-b9585458f710" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/offer/fourthday/LastRemaining.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/offer/fourthday/isContinuous.java" afterDir="false" />
+    <list default="true" id="b36a5284-6472-4948-af8d-b9585458f710" name="Default Changelist" comment="day4">
+      <change afterPath="$PROJECT_DIR$/src/leetcode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/labuladuo/回溯/FullPermutation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/labuladuo/回溯/PermuteUnique.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/labuladuo/回溯/SolveNQueens.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/labuladuo/回溯/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/labuladuo/回溯/子集/Combine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/labuladuo/回溯/子集/Subsets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/labuladuo/回溯/子集/SubsetsWithDup.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_3_7_0_Final.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__jline_jline_0_9_94.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_3_8_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_16.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_6_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_6_1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Array/Demo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/Array/Demo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Array/MaximunArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/Array/MaximunArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Array/MergeArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/Array/MergeArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/HashSet/Demo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/HashSet/Demo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/HashSet/Demo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/HashSet/Demo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/HashSet/Demo3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/HashSet/Demo3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/HashSet/Store.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/HashSet/Store.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Recursive/YangHui.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/Recursive/YangHui.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Summary/Demo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/Summary/Demo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Summary/Demo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/Summary/Demo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Summary/Queue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/Summary/Queue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Summary/Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/Summary/Stack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Tree/BalanceTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/Tree/BalanceTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Tree/BinaryTrees.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/Tree/BinaryTrees.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Tree/CommonTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/Tree/CommonTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Tree/CountTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/Tree/CountTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Tree/DepthTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/Tree/DepthTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Tree/InvertTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/Tree/InvertTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Tree/MinDepthTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/Tree/MinDepthTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Tree/N_aryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/Tree/N_aryTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Tree/SameTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/Tree/SameTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Tree/SearchTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/Tree/SearchTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Tree/SymmetricTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/Tree/SymmetricTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Tree/Traversal2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/Tree/Traversal2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Tree/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/Tree/TreeNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Tree/searchtree/BstIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/Tree/searchtree/BstIterator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Tree/searchtree/DeleteNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/Tree/searchtree/DeleteNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Tree/searchtree/InsertSearchTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/Tree/searchtree/InsertSearchTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Tree/searchtree/KthLargest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/Tree/searchtree/KthLargest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Tree/searchtree/SearchInSearchTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/Tree/searchtree/SearchInSearchTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Tree/searchtree/ValidateSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/Tree/searchtree/ValidateSearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/XiaoMi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/XiaoMi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/XiaoMi2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/XiaoMi2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/bank1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/bank1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dynamicprogramming/GoUp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/dynamicprogramming/GoUp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dynamicprogramming/ScheDule.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/dynamicprogramming/ScheDule.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/kuaishou/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/kuaishou/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/kuaishou/Main_two.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/kuaishou/Main_two.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/offer/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/offer/Fibonacci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/offer/FindKthToTail.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/offer/FindKthToTail.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/offer/FindPath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/offer/FindPath.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/offer/GetLeastNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/offer/GetLeastNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/offer/HasSubtree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/offer/HasSubtree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/offer/IsPopOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/offer/IsPopOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/offer/JumpFloorII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/offer/JumpFloorII.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/offer/MergeList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/offer/MergeList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/offer/MinStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/offer/MinStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/offer/MinSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/offer/MinSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/offer/MoreThanHalfNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/offer/MoreThanHalfNum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/offer/NumberOf1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/offer/NumberOf1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/offer/OddEven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/offer/OddEven.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/offer/Permutation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/offer/Permutation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/offer/PrintFromTopToBottom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/offer/PrintFromTopToBottom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/offer/ReverseList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/offer/ReverseList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/offer/ThirdDay/FindGreatestSumOfSubArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/offer/ThirdDay/FindGreatestSumOfSubArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/offer/ThirdDay/FindNumsAppearOnce.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/offer/ThirdDay/FindNumsAppearOnce.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/offer/ThirdDay/FirstNotRepeatingChar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/offer/ThirdDay/FirstNotRepeatingChar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/offer/ThirdDay/GetNumberOfK.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/offer/ThirdDay/GetNumberOfK.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/offer/ThirdDay/GetUglyNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/offer/ThirdDay/GetUglyNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/offer/ThirdDay/InversePairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/offer/ThirdDay/InversePairs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/offer/ThirdDay/TreeDepth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/offer/ThirdDay/TreeDepth.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/offer/VerifySquenceOfBST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/offer/VerifySquenceOfBST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/offer/digital/offer03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/offer/digital/offer03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/offer/digital/offer04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/offer/digital/offer04.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/offer/digital/offer06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/offer/digital/offer06.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/offer/digital/offer07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/offer/digital/offer07.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/offer/digital/offer11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/offer/digital/offer11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/offer/fourthday/FindContinuousSequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/offer/fourthday/FindContinuousSequence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/offer/fourthday/FindNumbersWithSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/offer/fourthday/FindNumbersWithSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/offer/fourthday/LastRemaining.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/offer/fourthday/LastRemaining.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/offer/fourthday/LeftRotateString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/offer/fourthday/LeftRotateString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/offer/fourthday/ReverseSentence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/offer/fourthday/ReverseSentence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/offer/fourthday/isContinuous.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/offer/fourthday/isContinuous.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/queue/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/queue/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/queue/bfs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/queue/bfs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/queue/queue_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/queue/queue_1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/sort/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/sort/QuickSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/stack/DFS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/stack/DFS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/stack/DFS2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/stack/DFS2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/stack/demo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/stack/demo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/stack/demo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/stack/demo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/stack/demo3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/stack/demo3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/stack/demo4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/stack/demo4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thread/PriteByNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/thread/PriteByNum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thread/ZeroOddEven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/thread/ZeroOddEven.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thread/celltitck/CellTitck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/thread/celltitck/CellTitck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thread/celltitck/CellTitckRunable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/thread/celltitck/CellTitckRunable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thread/celltitck/TestRunable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/thread/celltitck/TestRunable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thread/celltitck/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/thread/celltitck/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thread/notify/Cook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/thread/notify/Cook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thread/notify/Desk.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/thread/notify/Desk.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thread/notify/Foodie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/thread/notify/Foodie.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thread/notify/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/thread/notify/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thread/threadclass/countdownlauch/CountDownLauchTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/thread/threadclass/countdownlauch/CountDownLauchTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thread/threadclass/countdownlauch/ThreadJoin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/thread/threadclass/countdownlauch/ThreadJoin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thread/threadclass/cyclicbarrier/BankWaterService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/thread/threadclass/cyclicbarrier/BankWaterService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thread/threadclass/cyclicbarrier/CycliBarrierTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/thread/threadclass/cyclicbarrier/CycliBarrierTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thread/threadclass/cyclicbarrier/CyclicBarrierTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/thread/threadclass/cyclicbarrier/CyclicBarrierTest2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thread/threadclass/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/thread/threadclass/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thread/threadpool/DefaultThreadPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/thread/threadpool/DefaultThreadPool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thread/threadpool/ThreadPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/thread/threadpool/ThreadPool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thread/threadpool/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/thread/threadpool/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thread/waitconnection/ConnectionDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/thread/waitconnection/ConnectionDriver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thread/waitconnection/ConnectionPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/thread/waitconnection/ConnectionPool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thread/waitconnection/ConnectionPoolTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/thread/waitconnection/ConnectionPoolTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/thread/waitconnection/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/thread/waitconnection/readme.md" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/target/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FUSProjectUsageTrigger">
-    <session id="-1271306898">
-      <usages-collector id="statistics.lifecycle.project">
-        <counts>
-          <entry key="project.closed" value="57" />
-          <entry key="project.open.time.1" value="4" />
-          <entry key="project.open.time.106" value="1" />
-          <entry key="project.open.time.120" value="1" />
-          <entry key="project.open.time.16" value="1" />
-          <entry key="project.open.time.17" value="3" />
-          <entry key="project.open.time.18" value="5" />
-          <entry key="project.open.time.19" value="4" />
-          <entry key="project.open.time.2" value="7" />
-          <entry key="project.open.time.20" value="8" />
-          <entry key="project.open.time.21" value="3" />
-          <entry key="project.open.time.22" value="4" />
-          <entry key="project.open.time.24" value="1" />
-          <entry key="project.open.time.25" value="2" />
-          <entry key="project.open.time.27" value="4" />
-          <entry key="project.open.time.28" value="2" />
-          <entry key="project.open.time.29" value="3" />
-          <entry key="project.open.time.3" value="1" />
-          <entry key="project.open.time.30" value="2" />
-          <entry key="project.open.time.38" value="1" />
-          <entry key="project.open.time.4" value="2" />
-          <entry key="project.open.time.42" value="1" />
-          <entry key="project.open.time.5" value="1" />
-          <entry key="project.open.time.55" value="1" />
-          <entry key="project.opened" value="62" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="class" value="2" />
-          <entry key="java" value="237" />
-          <entry key="md" value="5" />
-          <entry key="xml" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="CLASS" value="2" />
-          <entry key="JAVA" value="237" />
-          <entry key="Markdown" value="5" />
-          <entry key="XML" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="dummy" value="1" />
-          <entry key="java" value="36643" />
-          <entry key="md" value="797" />
-          <entry key="txt" value="70" />
-          <entry key="xml" value="7" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="36643" />
-          <entry key="Markdown" value="797" />
-          <entry key="PLAIN_TEXT" value="71" />
-          <entry key="XML" value="7" />
-        </counts>
-      </usages-collector>
-    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -210,12 +269,36 @@
     </replaceStrings>
   </component>
   <component name="Git.Settings">
-    <option name="ROOT_SYNC" value="DONT_SYNC" />
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="PUSH_TAGS">
-      <GitPushTagMode />
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
     </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="dev" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;czetao&quot;
+  }
+}</component>
+  <component name="GitHubPullRequestState">{
+  &quot;prStates&quot;: []
+}</component>
+  <component name="GitLabMergeRequestsSettings">{}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:czetao/leetcode.git&quot;,
+    &quot;accountId&quot;: &quot;5378da57-c070-47b3-b1e5-b83a0f3ce4ce&quot;
+  }
+}</component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -279,25 +362,26 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="MavenImportPreferences">
-    <option name="importingSettings">
-      <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
-      </MavenImportingSettings>
-    </option>
-  </component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
   <component name="MavenProjectNavigator">
     <treeState>
       <expand />
       <select />
     </treeState>
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="280" />
     <option name="y" value="1222" />
     <option name="width" value="1366" />
     <option name="height" value="693" />
   </component>
+  <component name="ProjectId" id="2dtnJf3d58MSYSIY4lGfVsJ12iq" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -365,43 +449,50 @@
       </pane>
     </panes>
   </component>
-  <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value="linkedlis&#9;PSI&#9;JAVA://java.util.LinkedList" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1568877389803" />
-    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.38566244" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Combine.executor": "Debug",
+    "Application.FullPermutation.executor": "Run",
+    "Application.PermuteUnique.executor": "Run",
+    "Application.SolveNQueens.executor": "Debug",
+    "Application.Subsets.executor": "Run",
+    "Application.SubsetsWithDup.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.34367815",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="thread.threadclass" />
       <recent name="Thread.waitConnection" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java/labuladuo/回朔" />
+    </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.isContinuous">
-    <configuration name="FindContinuousSequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="offer.fourthday.FindContinuousSequence" />
-      <module name="bank" />
+  <component name="RunManager" selected="Application.PermuteUnique">
+    <configuration name="Combine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="labuladuo.回溯.子集.Combine" />
+      <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="offer.fourthday.*" />
+          <option name="PATTERN" value="labuladuo.回溯.子集.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -409,12 +500,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindNumbersWithSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="offer.fourthday.FindNumbersWithSum" />
-      <module name="bank" />
+    <configuration name="FullPermutation (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="labuladuo.回朔.FullPermutation" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="offer.fourthday.*" />
+          <option name="PATTERN" value="labuladuo.回朔.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -422,12 +512,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LeftRotateString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="offer.fourthday.LeftRotateString" />
-      <module name="bank" />
+    <configuration name="PermuteUnique" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="labuladuo.回溯.PermuteUnique" />
+      <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="offer.fourthday.*" />
+          <option name="PATTERN" value="labuladuo.回溯.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -435,12 +525,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReverseSentence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="offer.fourthday.ReverseSentence" />
-      <module name="bank" />
+    <configuration name="SolveNQueens" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="labuladuo.回溯.SolveNQueens" />
+      <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="offer.fourthday.*" />
+          <option name="PATTERN" value="labuladuo.回溯.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -448,12 +538,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="isContinuous" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="offer.fourthday.isContinuous" />
-      <module name="bank" />
+    <configuration name="Subsets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="labuladuo.回溯.子集.Subsets" />
+      <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="offer.fourthday.*" />
+          <option name="PATTERN" value="labuladuo.回溯.子集.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SubsetsWithDup" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="labuladuo.回溯.子集.SubsetsWithDup" />
+      <module name="leetcode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="labuladuo.回溯.子集.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -462,22 +565,31 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.FindNumbersWithSum" />
-      <item itemvalue="Application.FindContinuousSequence" />
-      <item itemvalue="Application.ReverseSentence" />
-      <item itemvalue="Application.LeftRotateString" />
-      <item itemvalue="Application.isContinuous" />
+      <item itemvalue="Application.Combine" />
+      <item itemvalue="Application.PermuteUnique" />
+      <item itemvalue="Application.Subsets" />
+      <item itemvalue="Application.SubsetsWithDup" />
+      <item itemvalue="Application.SolveNQueens" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.isContinuous" />
-        <item itemvalue="Application.LeftRotateString" />
-        <item itemvalue="Application.ReverseSentence" />
-        <item itemvalue="Application.FindContinuousSequence" />
-        <item itemvalue="Application.FindNumbersWithSum" />
+        <item itemvalue="Application.PermuteUnique" />
+        <item itemvalue="Application.SubsetsWithDup" />
+        <item itemvalue="Application.Combine" />
+        <item itemvalue="Application.Subsets" />
+        <item itemvalue="Application.SolveNQueens" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.17" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.17" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -550,6 +662,10 @@
       <workItem from="1568788665172" duration="16418000" />
       <workItem from="1568858117110" duration="8048000" />
       <workItem from="1568872807144" duration="4443000" />
+      <workItem from="1710836172788" duration="293000" />
+      <workItem from="1710836470575" duration="147000" />
+      <workItem from="1710836631326" duration="9910000" />
+      <workItem from="1710925004933" duration="14486000" />
     </task>
     <task id="LOCAL-00001" summary="idea测试整合">
       <created>1563435171940</created>
@@ -694,7 +810,7 @@
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.History.Properties">
     <option name="COLUMN_ORDER">
@@ -711,29 +827,11 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="RECENTLY_FILTERED_USER_GROUPS">
-                <collection />
-              </option>
-              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-                <collection />
-              </option>
-              <option name="COLUMN_ORDER">
-                <list>
-                  <option value="0" />
-                  <option value="1" />
-                  <option value="2" />
-                  <option value="3" />
-                </list>
-              </option>
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="idea测试整合" />
@@ -749,111 +847,94 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/kuaishou/Main_two.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/previous/kuaishou/Main_two.java</url>
           <line>37</line>
-          <properties />
           <option name="timeStamp" value="4" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/kuaishou/Main_two.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/previous/kuaishou/Main_two.java</url>
           <line>31</line>
-          <properties />
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Array/Demo1.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/previous/Array/Demo1.java</url>
           <line>26</line>
-          <properties />
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Array/Demo1.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/previous/Array/Demo1.java</url>
           <line>18</line>
-          <properties />
           <option name="timeStamp" value="7" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Array/Demo1.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/previous/Array/Demo1.java</url>
           <line>20</line>
-          <properties />
           <option name="timeStamp" value="8" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Tree/BinaryTrees.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/previous/Tree/BinaryTrees.java</url>
           <line>34</line>
-          <properties />
           <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Tree/BinaryTrees.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/previous/Tree/BinaryTrees.java</url>
           <line>31</line>
-          <properties />
           <option name="timeStamp" value="10" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/Tree/BinaryTrees.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/previous/Tree/BinaryTrees.java</url>
           <line>28</line>
-          <properties />
           <option name="timeStamp" value="11" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/thread/threadclass/cyclicbarrier/CycliBarrierTest.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/previous/thread/threadclass/cyclicbarrier/CycliBarrierTest.java</url>
           <line>25</line>
-          <properties />
           <option name="timeStamp" value="17" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/XiaoMi.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/previous/XiaoMi.java</url>
           <line>76</line>
-          <properties />
           <option name="timeStamp" value="18" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/XiaoMi.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/previous/XiaoMi.java</url>
           <line>79</line>
-          <properties />
           <option name="timeStamp" value="19" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/offer/IsPopOrder.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/previous/offer/IsPopOrder.java</url>
           <line>27</line>
-          <properties />
           <option name="timeStamp" value="23" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/offer/ThirdDay/GetUglyNumber.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/previous/offer/ThirdDay/GetUglyNumber.java</url>
           <line>26</line>
-          <properties />
           <option name="timeStamp" value="27" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/offer/ThirdDay/GetNumberOfK.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/previous/offer/ThirdDay/GetNumberOfK.java</url>
           <line>29</line>
-          <properties />
           <option name="timeStamp" value="28" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/offer/fourthday/FindNumbersWithSum.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/previous/offer/fourthday/FindNumbersWithSum.java</url>
           <line>26</line>
-          <properties />
           <option name="timeStamp" value="29" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/offer/fourthday/FindContinuousSequence.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/previous/offer/fourthday/FindContinuousSequence.java</url>
           <line>22</line>
-          <properties />
           <option name="timeStamp" value="31" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/offer/fourthday/ReverseSentence.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/previous/offer/fourthday/ReverseSentence.java</url>
           <line>19</line>
-          <properties />
           <option name="timeStamp" value="32" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/main/java/Tree/InvertTree.java</url>
+          <url>file://$PROJECT_DIR$/src/main/java/previous/Tree/InvertTree.java</url>
           <line>74</line>
-          <properties class="Tree.InvertTree" method="main">
+          <properties class="previous.Tree.InvertTree" method="main">
             <option name="EMULATED" value="true" />
           </properties>
           <option name="timeStamp" value="13" />
