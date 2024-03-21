@@ -1,4 +1,4 @@
-package labuladuo.回溯;
+package labuladuo.回溯.排列;
 
 import java.util.Arrays;
 import java.util.LinkedList;
@@ -28,7 +28,7 @@ public class PermuteUnique {
         boolean[] use = new boolean[nums.length];
         // 不重复的队列都需要先进行排序
         Arrays.sort(nums);
-        backTracking(nums, 0,use);
+        backTracking(nums, 0, use);
         return all;
     }
 
@@ -43,17 +43,17 @@ public class PermuteUnique {
         //因为排列问题，每次都要从头开始搜索，例如元素1在[1,2]中已经使用过了，但是在[2,1]中还要再使用一次1。
         for (int i = 0; i < nums.length; i++) {
 
-            if (use[i]){
+            if (use[i]) {
                 continue;
             }
-            // 进行剪枝 TODO i > startIndex
-            if (i > 0 && nums[i] == nums[i-1] && !use[i-1]){
+            // 进行剪枝
+            if (i > 0 && nums[i] == nums[i - 1] && !use[i - 1]) {
                 continue;
             }
 
             use[i] = true;
             path.add(nums[i]);
-            backTracking(nums,i + 1, use);
+            backTracking(nums, i + 1, use);
             use[i] = false;
             path.removeLast();
 

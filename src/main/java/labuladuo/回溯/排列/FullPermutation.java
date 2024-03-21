@@ -1,4 +1,4 @@
-package labuladuo.回溯;
+package labuladuo.回溯.排列;
 
 import java.util.LinkedList;
 import java.util.List;
