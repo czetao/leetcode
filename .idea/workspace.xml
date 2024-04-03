@@ -4,140 +4,25 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b36a5284-6472-4948-af8d-b9585458f710" name="Default Changelist" comment="day4">
-      <change afterPath="$PROJECT_DIR$/src/leetcode.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/labuladuo/回溯/FullPermutation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/labuladuo/回溯/PermuteUnique.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/labuladuo/回溯/SolveNQueens.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/labuladuo/回溯/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/labuladuo/回溯/子集/Combine.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/labuladuo/回溯/子集/Subsets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/labuladuo/回溯/子集/SubsetsWithDup.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_3_7_0_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__jline_jline_0_9_94.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_3_8_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_16.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_6_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_6_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+    <list default="true" id="b36a5284-6472-4948-af8d-b9585458f710" name="Default Changelist" comment="提交组合类型">
+      <change afterPath="$PROJECT_DIR$/src/main/java/labuladuo/贪心/CanJump.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/labuladuo/贪心/FindContentChildren.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/labuladuo/贪心/Jump.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/labuladuo/贪心/MaxProfit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/labuladuo/贪心/MaxSubArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/labuladuo/贪心/WiggleMaxLength.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Array/Demo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/Array/Demo1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Array/MaximunArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/Array/MaximunArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Array/MergeArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/Array/MergeArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/HashSet/Demo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/HashSet/Demo1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/HashSet/Demo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/HashSet/Demo2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/HashSet/Demo3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/HashSet/Demo3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/HashSet/Store.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/HashSet/Store.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Recursive/YangHui.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/Recursive/YangHui.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Summary/Demo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/Summary/Demo1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Summary/Demo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/Summary/Demo2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Summary/Queue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/Summary/Queue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Summary/Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/Summary/Stack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Tree/BalanceTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/Tree/BalanceTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Tree/BinaryTrees.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/Tree/BinaryTrees.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Tree/CommonTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/Tree/CommonTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Tree/CountTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/Tree/CountTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Tree/DepthTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/Tree/DepthTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Tree/InvertTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/Tree/InvertTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Tree/MinDepthTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/Tree/MinDepthTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Tree/N_aryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/Tree/N_aryTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Tree/SameTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/Tree/SameTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Tree/SearchTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/Tree/SearchTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Tree/SymmetricTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/Tree/SymmetricTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Tree/Traversal2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/Tree/Traversal2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Tree/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/Tree/TreeNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Tree/searchtree/BstIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/Tree/searchtree/BstIterator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Tree/searchtree/DeleteNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/Tree/searchtree/DeleteNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Tree/searchtree/InsertSearchTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/Tree/searchtree/InsertSearchTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Tree/searchtree/KthLargest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/Tree/searchtree/KthLargest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Tree/searchtree/SearchInSearchTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/Tree/searchtree/SearchInSearchTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Tree/searchtree/ValidateSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/Tree/searchtree/ValidateSearch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/XiaoMi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/XiaoMi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/XiaoMi2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/XiaoMi2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/bank1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/bank1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dynamicprogramming/GoUp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/dynamicprogramming/GoUp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/dynamicprogramming/ScheDule.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/dynamicprogramming/ScheDule.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/kuaishou/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/kuaishou/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/kuaishou/Main_two.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/kuaishou/Main_two.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/offer/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/offer/Fibonacci.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/offer/FindKthToTail.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/offer/FindKthToTail.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/offer/FindPath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/offer/FindPath.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/offer/GetLeastNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/offer/GetLeastNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/offer/HasSubtree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/offer/HasSubtree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/offer/IsPopOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/offer/IsPopOrder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/offer/JumpFloorII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/offer/JumpFloorII.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/offer/MergeList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/offer/MergeList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/offer/MinStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/offer/MinStack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/offer/MinSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/offer/MinSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/offer/MoreThanHalfNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/offer/MoreThanHalfNum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/offer/NumberOf1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/offer/NumberOf1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/offer/OddEven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/offer/OddEven.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/offer/Permutation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/offer/Permutation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/offer/PrintFromTopToBottom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/offer/PrintFromTopToBottom.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/offer/ReverseList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/offer/ReverseList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/offer/ThirdDay/FindGreatestSumOfSubArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/offer/ThirdDay/FindGreatestSumOfSubArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/offer/ThirdDay/FindNumsAppearOnce.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/offer/ThirdDay/FindNumsAppearOnce.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/offer/ThirdDay/FirstNotRepeatingChar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/offer/ThirdDay/FirstNotRepeatingChar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/offer/ThirdDay/GetNumberOfK.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/offer/ThirdDay/GetNumberOfK.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/offer/ThirdDay/GetUglyNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/offer/ThirdDay/GetUglyNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/offer/ThirdDay/InversePairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/offer/ThirdDay/InversePairs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/offer/ThirdDay/TreeDepth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/offer/ThirdDay/TreeDepth.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/offer/VerifySquenceOfBST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/offer/VerifySquenceOfBST.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/offer/digital/offer03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/offer/digital/offer03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/offer/digital/offer04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/offer/digital/offer04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/offer/digital/offer06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/offer/digital/offer06.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/offer/digital/offer07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/offer/digital/offer07.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/offer/digital/offer11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/offer/digital/offer11.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/offer/fourthday/FindContinuousSequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/offer/fourthday/FindContinuousSequence.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/offer/fourthday/FindNumbersWithSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/offer/fourthday/FindNumbersWithSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/offer/fourthday/LastRemaining.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/offer/fourthday/LastRemaining.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/offer/fourthday/LeftRotateString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/offer/fourthday/LeftRotateString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/offer/fourthday/ReverseSentence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/offer/fourthday/ReverseSentence.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/offer/fourthday/isContinuous.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/offer/fourthday/isContinuous.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/queue/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/queue/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/queue/bfs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/queue/bfs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/queue/queue_1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/queue/queue_1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/sort/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/sort/QuickSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/stack/DFS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/stack/DFS.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/stack/DFS2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/stack/DFS2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/stack/demo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/stack/demo1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/stack/demo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/stack/demo2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/stack/demo3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/stack/demo3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/stack/demo4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/stack/demo4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/thread/PriteByNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/thread/PriteByNum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/thread/ZeroOddEven.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/thread/ZeroOddEven.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/thread/celltitck/CellTitck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/thread/celltitck/CellTitck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/thread/celltitck/CellTitckRunable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/thread/celltitck/CellTitckRunable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/thread/celltitck/TestRunable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/thread/celltitck/TestRunable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/thread/celltitck/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/thread/celltitck/test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/thread/notify/Cook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/thread/notify/Cook.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/thread/notify/Desk.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/thread/notify/Desk.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/thread/notify/Foodie.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/thread/notify/Foodie.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/thread/notify/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/thread/notify/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/thread/threadclass/countdownlauch/CountDownLauchTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/thread/threadclass/countdownlauch/CountDownLauchTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/thread/threadclass/countdownlauch/ThreadJoin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/thread/threadclass/countdownlauch/ThreadJoin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/thread/threadclass/cyclicbarrier/BankWaterService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/thread/threadclass/cyclicbarrier/BankWaterService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/thread/threadclass/cyclicbarrier/CycliBarrierTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/thread/threadclass/cyclicbarrier/CycliBarrierTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/thread/threadclass/cyclicbarrier/CyclicBarrierTest2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/thread/threadclass/cyclicbarrier/CyclicBarrierTest2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/thread/threadclass/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/thread/threadclass/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/thread/threadpool/DefaultThreadPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/thread/threadpool/DefaultThreadPool.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/thread/threadpool/ThreadPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/thread/threadpool/ThreadPool.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/thread/threadpool/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/thread/threadpool/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/thread/waitconnection/ConnectionDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/thread/waitconnection/ConnectionDriver.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/thread/waitconnection/ConnectionPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/thread/waitconnection/ConnectionPool.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/thread/waitconnection/ConnectionPoolTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/thread/waitconnection/ConnectionPoolTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/thread/waitconnection/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/previous/thread/waitconnection/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/labuladuo/回溯/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/labuladuo/回溯/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="module" />
+    </option>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
@@ -455,12 +340,20 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.CanJump.executor": "Run",
+    "Application.CombinationSum.executor": "Run",
+    "Application.CombinationSum2.executor": "Run",
     "Application.Combine.executor": "Debug",
+    "Application.FindContentChildren.executor": "Debug",
     "Application.FullPermutation.executor": "Run",
+    "Application.Jump.executor": "Run",
+    "Application.MaxProfit.executor": "Run",
+    "Application.MaxSubArray.executor": "Run",
     "Application.PermuteUnique.executor": "Run",
     "Application.SolveNQueens.executor": "Debug",
     "Application.Subsets.executor": "Run",
     "Application.SubsetsWithDup.executor": "Run",
+    "Application.WiggleMaxLength.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
@@ -486,13 +379,13 @@
       <recent name="$PROJECT_DIR$/src/main/java/labuladuo/回朔" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PermuteUnique">
-    <configuration name="Combine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="labuladuo.回溯.子集.Combine" />
+  <component name="RunManager" selected="Application.Jump">
+    <configuration name="CanJump" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="labuladuo.贪心.CanJump" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="labuladuo.回溯.子集.*" />
+          <option name="PATTERN" value="labuladuo.贪心.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -500,11 +393,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FullPermutation (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="labuladuo.回朔.FullPermutation" />
+    <configuration name="Jump" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="labuladuo.贪心.Jump" />
+      <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="labuladuo.回朔.*" />
+          <option name="PATTERN" value="labuladuo.贪心.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -512,12 +406,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PermuteUnique" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="labuladuo.回溯.PermuteUnique" />
+    <configuration name="MaxProfit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="labuladuo.贪心.MaxProfit" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="labuladuo.回溯.*" />
+          <option name="PATTERN" value="labuladuo.贪心.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -525,12 +419,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SolveNQueens" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="labuladuo.回溯.SolveNQueens" />
+    <configuration name="MaxSubArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="labuladuo.贪心.MaxSubArray" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="labuladuo.回溯.*" />
+          <option name="PATTERN" value="labuladuo.贪心.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -538,25 +432,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Subsets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="labuladuo.回溯.子集.Subsets" />
+    <configuration name="WiggleMaxLength" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="labuladuo.贪心.WiggleMaxLength" />
       <module name="leetcode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="labuladuo.回溯.子集.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SubsetsWithDup" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="labuladuo.回溯.子集.SubsetsWithDup" />
-      <module name="leetcode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="labuladuo.回溯.子集.*" />
+          <option name="PATTERN" value="labuladuo.贪心.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -565,19 +446,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Combine" />
-      <item itemvalue="Application.PermuteUnique" />
-      <item itemvalue="Application.Subsets" />
-      <item itemvalue="Application.SubsetsWithDup" />
-      <item itemvalue="Application.SolveNQueens" />
+      <item itemvalue="Application.CanJump" />
+      <item itemvalue="Application.Jump" />
+      <item itemvalue="Application.MaxProfit" />
+      <item itemvalue="Application.MaxSubArray" />
+      <item itemvalue="Application.WiggleMaxLength" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PermuteUnique" />
-        <item itemvalue="Application.SubsetsWithDup" />
-        <item itemvalue="Application.Combine" />
-        <item itemvalue="Application.Subsets" />
-        <item itemvalue="Application.SolveNQueens" />
+        <item itemvalue="Application.Jump" />
+        <item itemvalue="Application.CanJump" />
+        <item itemvalue="Application.MaxProfit" />
+        <item itemvalue="Application.MaxSubArray" />
+        <item itemvalue="Application.WiggleMaxLength" />
       </list>
     </recent_temporary>
   </component>
@@ -666,6 +547,13 @@
       <workItem from="1710836470575" duration="147000" />
       <workItem from="1710836631326" duration="9910000" />
       <workItem from="1710925004933" duration="14486000" />
+      <workItem from="1711009573848" duration="7947000" />
+      <workItem from="1711093190706" duration="3000" />
+      <workItem from="1711330561168" duration="3241000" />
+      <workItem from="1711350093623" duration="125000" />
+      <workItem from="1711352243812" duration="1645000" />
+      <workItem from="1711958511962" duration="6341000" />
+      <workItem from="1712112305836" duration="8008000" />
     </task>
     <task id="LOCAL-00001" summary="idea测试整合">
       <created>1563435171940</created>
@@ -737,7 +625,15 @@
       <option name="project" value="LOCAL" />
       <updated>1568872865833</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="提交组合类型">
+      <option name="closed" value="true" />
+      <created>1711013359417</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1711013359417</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -841,7 +737,8 @@
     <MESSAGE value="增加剑指offer" />
     <MESSAGE value="+4" />
     <MESSAGE value="day4" />
-    <option name="LAST_COMMIT_MESSAGE" value="day4" />
+    <MESSAGE value="提交组合类型" />
+    <option name="LAST_COMMIT_MESSAGE" value="提交组合类型" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -930,6 +827,11 @@
           <url>file://$PROJECT_DIR$/src/main/java/previous/offer/fourthday/ReverseSentence.java</url>
           <line>19</line>
           <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/labuladuo/贪心/FindContentChildren.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="36" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/main/java/previous/Tree/InvertTree.java</url>
